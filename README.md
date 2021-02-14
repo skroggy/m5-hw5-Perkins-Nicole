@@ -1,1 +1,1 @@
-No issues and no our=tside sources used.
+No issues and no outside sources used.
